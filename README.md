@@ -1,10 +1,9 @@
 <!-- GitHubプロフィールの閲覧数を表示します。 -->
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=outsidewhite&color=blueviolet" alt="プロフィール閲覧数" />
-</div>
 
 ## 👋 Hi there
 
+<!-- 制作物の動作デモをGIFアニメーションで表示します。 -->
+![動作デモ](./warpman.gif)
 [Portfolio](https://outsidewhite.me/)
 
 ## 🛠️ Tech Stack
