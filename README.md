@@ -4,7 +4,6 @@
 
 <!-- 制作物の動作デモをGIFアニメーションで表示します。 -->
 ![動作デモ](./warpman.gif)
-[Portfolio](https://outsidewhite.me/)
 
 ## 🛠️ Tech Stack
 
